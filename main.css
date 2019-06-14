@@ -25,6 +25,7 @@ h1 {
  /* ========================main */
  .b-text {
    border: 10px solid #800080;
+   border-radius: 5%;
    padding: 1%;
    padding-top: 6%;
    padding-bottom: 6%;
